@@ -1,9 +1,9 @@
 # Live-Face-and-Eyes-Detection
 
-### Goal: The goal of this project is to detect face and eyes from live webcam using OpenCV and Haarcascade classifier.
+### Goal: The goal of this project is to detect face and eyes from live webcam using OpenCV and Haar Cascade classifier.
 
 ### Brief Description:
-I have used OpenCV and Haarcascade classifier in this project. 
+I have used OpenCV and Haar Cascade classifier in this project. 
 
 
 So, what is Haar Cascade? 
