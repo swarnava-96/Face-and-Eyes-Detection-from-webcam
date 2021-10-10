@@ -38,4 +38,4 @@ pip install -r requirements.txt
 ```
 ##### 4. Open the .ipynb file inside Jupyter Notebook and run the cells.
 
-##### Make sure to change the directory to the root folder.  
+##### Make sure to change the directory to the root folder. The folder structure should be same as of this repository otherwise it will throw error. 
