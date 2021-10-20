@@ -16,7 +16,8 @@ The features in Haar Cascade is stored in XML files. I have used "haarcascade_fr
 for detecting the face and "haarcascade_eye.xml" for detecting the eyes. I have downloaded these files
 from Haar Cascade GitHub repository [[link](https://github.com/opencv/opencv/tree/master/data/haarcascades)].
 Then, I have defined a function, changed the color scale to gray for speeding up the task, defined rectangular
-boxes for detecting face and eyes. I have used live recordings from my webcam in this project. 
+boxes for detecting face and eyes. I have used live recordings from my webcam in this project. I have deployed the project 
+on local server using flask.
 
 ### Demo:
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/75041273/136550906-5b575b50-349f-4d43-add2-904d6d9e6962.gif)
