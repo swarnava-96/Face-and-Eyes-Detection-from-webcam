@@ -38,6 +38,8 @@ conda activate myenv
 pip install -r requirements.txt
 ```
 ##### 4. Then, in cmd or Anaconda prompt write the following code:
-```python app.py```
+```bash
+python app.py
+```
 
 ##### Make sure to change the directory to the root folder. The folder structure should be same as of this repository otherwise it will throw error. 
