@@ -36,6 +36,7 @@ conda activate myenv
 ```bash
 pip install -r requirements.txt
 ```
-##### 4. Open the .ipynb file inside Jupyter Notebook and run the cells.
+##### 4. 6. Then, in cmd or Anaconda prompt write the following code:
+```python app.py```
 
 ##### Make sure to change the directory to the root folder. The folder structure should be same as of this repository otherwise it will throw error. 
